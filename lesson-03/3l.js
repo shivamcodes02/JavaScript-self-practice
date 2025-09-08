@@ -1,0 +1,1 @@
+`Shipping & handliing: $${(499 + 499) / 100}`
